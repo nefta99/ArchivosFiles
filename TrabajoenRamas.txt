@@ -1,0 +1,7 @@
+
+1.- para obtener todas las ramas: git fetch
+2.- para comprobar rama es: git checkout -nombre del branch-
+3.- para actualizar el proyecto como esta en el gitlab: git pull -nombre de la rama-
+4.- para hacer el merge en esta caso fue master: git marge -nombre de la rama-
+
+
